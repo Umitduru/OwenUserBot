@@ -7,8 +7,8 @@
     Owen UserBot, Telegram kullanmanızı kolaylaştıran ve eğlenceli bir yol almasını sağlayan bir bottur. <br>
     Owen UserBot is a bot that makes it easy and fun to use Telegram.
     <br>
-        <a href="https://github.com/erdewbey/OwenUserBot/blob/master/README.md#kurulum/setup">| Kurulum/Setup</a> |
-        <a href="https://github.com/erdewbey/OwenUserBot/wiki/G%C3%BCncelleme">Güncelleme/Update</a> |
+        <a href="https://github.com/umitduru/kedyuserbot/blob/master/README.md#kurulum/setup">| Kurulum/Setup</a> |
+        <a href="https://github.com/umitduru/kedyuserbot/wiki/G%C3%BCncelleme">Güncelleme/Update</a> |
         <a href="https://t.me/OwenUserBot">Kanal/Channel </a> |
         <a href="https://t.me/OwenSupport">Destek/Support</a> |
     <br>
@@ -20,18 +20,18 @@
 
 **Android:** 
 
-`bash <(curl -L https://bit.ly/3tUBVha)`
+`bash <(curl -L https://bit.ly/3tUBVkc)`
 
 🇹🇷**Tarayıcı Kurulum / Online Setup**🇺🇲
 
-[![Run on Repl.it](https://repl.it/badge/github/erdewbey/oweninstaller)](https://repl.it/@erdewbey/oweninstaller)
+[![Run on Repl.it](https://repl.it/badge/github/umitduru/kedyinstaller)](https://repl.it/@suskunlarasistan/kedyinstaller)
 
 ### 🇹🇷 Elle Kurulum / Manual Setup 🇺🇲
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/umitduru/EPİCUSERBOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/umitduru/KEDYUSERBOT)
 
 ## 🇹🇷 Bilgilendirme / İnformation 🇺🇲
-***Herhangi bir istek & şikayet & öneriniz varsa [destek grubuna](https://t.me/OwenSupport) ulaşabilirsiniz.***
+***Herhangi bir istek & şikayet & öneriniz varsa [destek grubuna](https://t.me/Kedysupport) ulaşabilirsiniz.***
 
 ***You can reach the [support group](https://t.me/OwenSupport) if there are any requests & complaints & suggestions.***
 ```
