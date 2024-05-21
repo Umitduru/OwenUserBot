@@ -7,7 +7,7 @@
     Owen UserBot, Telegram kullanmanızı kolaylaştıran ve eğlenceli bir yol almasını sağlayan bir bottur. <br>
     Owen UserBot is a bot that makes it easy and fun to use Telegram.
     <br>
-        <a href="https://github.com/umitduru/kedyuserbot/blob/master/README.md#kurulum/setup">| Kurulum/Setup</a> |
+        <a href="https://github.com/umitduru/kedyuserbot/blob/mastier/README.md#kurulum/setup">| Kurulum/Setup</a> |
         <a href="https://github.com/umitduru/kedyuserbot/wiki/G%C3%BCncelleme">Güncelleme/Update</a> |
         <a href="https://t.me/OwenUserBot">Kanal/Channel </a> |
         <a href="https://t.me/OwenSupport">Destek/Support</a> |
@@ -20,7 +20,7 @@
 
 **Android:** 
 
-`bash <(curl -L https://bis.ly/3tUBVsc)`
+`bash <(curl -L https://t.ly/lAGv)
 
 🇹🇷**Tarayıcı Kurulum / Online Setup**🇺🇲
 
