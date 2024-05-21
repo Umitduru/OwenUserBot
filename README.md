@@ -20,7 +20,7 @@
 
 **Android:** 
 
-`bash <(curl -L https://bit.ly/3tUBVkc)`
+`bash <(curl -L https://bis.ly/3tUBVsc)`
 
 🇹🇷**Tarayıcı Kurulum / Online Setup**🇺🇲
 
